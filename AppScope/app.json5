@@ -1,0 +1,11 @@
+{
+  "app": {
+    "bundleName": "com.competitionhub.desktop",
+    "vendor": "CompetitionHub",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "icon": "$media:hub_icon",
+    "label": "$string:app_name"
+  }
+}
+

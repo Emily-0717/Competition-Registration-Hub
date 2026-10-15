@@ -1,0 +1,6 @@
+PASS PDF能力不存在时不触发模块加载
+PASS 模拟器缺少命名导出时安全降级
+PASS PDF模块加载异常被捕获
+PASS PDF完整能力通过后方可进入预览
+PASS 首页静态依赖图不链接可选PDF模块
+5 tests passed (startup dependency and runtime export regressions)

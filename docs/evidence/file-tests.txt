@@ -1,0 +1,11 @@
+PASS 真实文件流 SHA-256 跨越多个缓冲块
+PASS 取消选择不产生文件或版本
+PASS 导入复制文件并独立创建版本
+PASS 缺失文件检查返回明确失败
+PASS 接受自身备份的平面目录
+PASS 接受包含根目录的备份
+PASS 拒绝 ZIP 路径穿越
+PASS 拒绝 ZIP 符号链接
+PASS 拒绝异常解压大小
+PASS 拒绝未知备份文件和重复条目
+10 tests passed (Node file adapters; not HarmonyOS device tests)

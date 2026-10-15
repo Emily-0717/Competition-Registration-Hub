@@ -1,0 +1,40 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "hub_canvas",
+      "value": "#F3F5FA"
+    },
+    {
+      "name": "hub_surface",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "hub_text",
+      "value": "#202D45"
+    },
+    {
+      "name": "hub_secondary",
+      "value": "#728097"
+    },
+    {
+      "name": "hub_subtle",
+      "value": "#8490A3"
+    },
+    {
+      "name": "hub_selected",
+      "value": "#E8EEFF"
+    },
+    {
+      "name": "hub_tag",
+      "value": "#EEF3FF"
+    },
+    {
+      "name": "hub_nav",
+      "value": "#59667E"
+    }
+  ]
+}

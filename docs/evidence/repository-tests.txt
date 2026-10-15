@@ -1,0 +1,13 @@
+PASS 实际建表SQL创建11个表和父索引
+PASS 事务保存竞赛赛道材料与操作日志
+PASS 父记录更新不会隐式删除子记录
+PASS SQL外键失败回滚整批数据和日志
+PASS 删除存在子项的父实体被拒绝
+PASS 数据库层直接删除同样受外键保护
+PASS 文件版本及当前指针原子写入
+PASS 历史版本与托管文件不可直接删除
+PASS 错误最终指针不能保存
+PASS 跨材料文件引用被拒绝
+PASS 无有效父项的任务被拒绝
+PASS 关闭再打开SQLite保留全部记录
+12 tests passed (actual SQL on host SQLite; not HarmonyOS RDB runtime)

@@ -1,0 +1,2 @@
+10-15 16:33:49.806 16613 16613 I A00000/testTag: Succeeded in loading the content.
+10-15 16:35:17.069 16660 16660 I A00000/testTag: Succeeded in loading the content.

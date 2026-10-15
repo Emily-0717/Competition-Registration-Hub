@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "本地竞赛报名、材料版本与提交核验"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "创新竞赛报名资料台主窗口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "创新竞赛报名资料台"
+    }
+  ]
+}
